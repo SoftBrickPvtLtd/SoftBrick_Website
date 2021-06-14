@@ -3288,3 +3288,12 @@ blockquote {
 .bottomMargin0 {
     margin-bottom: 0;
 }
+
+.rating{
+    color: #fff;
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 1;
+    text-align: center;
+    margin: 30px 0 20px;
+}
