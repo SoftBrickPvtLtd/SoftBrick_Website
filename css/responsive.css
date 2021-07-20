@@ -75,6 +75,10 @@
 		margin: 8px 0 0;
 		padding: 9px 0 9px 10px;
 	}
+
+	.home-top-banner{
+		height: 85vh;
+	}
 	.banner-content {
 		margin-bottom: 30px;
 		text-align: center;
@@ -107,6 +111,9 @@
 	#about .profile-image {
 		margin: 0 auto 50px;
 	}	
+	#about {
+		padding: 20px 0;
+	}
 	.about-box-style .experience-content {
 		padding: 20px 15px;
 	}
